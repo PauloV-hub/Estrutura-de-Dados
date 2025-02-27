@@ -1,4 +1,4 @@
-Simulação de Chaves da Copa do Mundo usando Pilhas e Filas
+
 Este programa simula o embaralhamento e os resultados das chaves da Copa do Mundo utilizando estruturas de dados como pilhas e filas.
 
 Funcionalidades
